@@ -1,7 +1,6 @@
 canvas = document.getElementById("myCanvas");
 ctx= canvas.getContext("2d");
 
-/*
     Use beginPath() function to begin a path.
     Then, use strokeStyle to set the color to "grey".
     Use lineWidth and set the width to 1.
